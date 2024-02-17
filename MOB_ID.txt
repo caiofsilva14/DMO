@@ -1,0 +1,314 @@
+ID | MODEL | NAME
+
+200000 | 13067 | DemiDevimon (Devil of D-terminal)
+200001 | 40263 | Rockmon (The Ruler of Wilderness)
+200002 | 30483 | Piyomon (Descendant of Phonix)
+200003 | 61712 | HerculesKabuterimon (Leader)
+200004 | 40233 | Digmon (Undersurface Coward)
+200005 | 51244 | WaruMonzaemon (Lord of Vice)
+200006 | 60613 | SaberLeomon (Western Ruler)
+200007 | 50353 | Vikaralamon (Fury Predator)
+200008 | 50343 | Cerberumon (Hunter of Hell)
+200009 | 41593 | Deputymon (Wanted Criminal)
+200010 | 50244 | Hell SkullGreymon (Leader)
+200011 | 50474 | Hell MetalGreymon (Leader)
+200012 | 40333 | Dobermon (Teeth of Terror)
+200013 | 51712 | MegaKabuterimon (Leader)
+200014 | 50433 | Cherrymon (Forest Guard)
+200015 | 61512 | MetalGarurumon (Leader)
+200016 | 41663 | RedVegiemon (Variation)
+200017 | 21344 | DemiMeramon (Arsonist)
+200018 | 61462 | GranKuwagamon (Leader)
+200019 | 51242 | WaruMonzaemon (Leader)
+200020 | 21343 | DemiMeramon (Mutation)
+200021 | 51482 | WereGarurumon (Leader)
+200021 | 51484 | WereGarurumon (Leader)
+200022 | 40132 | Strikedramon (Leader)
+200023 | 50242 | SkullGreymon (Leader)
+200023 | 51722 | SkullGreymon (Leader)
+200024 | 50472 | MetalGreymon (Leader)
+200025 | 51524 | SkullMeramon (Leader)
+200026 | 50222 | SkullSatamon (Leader)
+200027 | 60872 | PileVolcamon (Leader)
+200028 | 50894 | SuperStarmon (Leader)
+200029 | 30302 | Armadillomon (Leader)
+200030 | 50332 | CannonBeemon (Leader)
+200031 | 40523 | Birdramon (Variation)
+200032 | 40632 | Sabirdramon (Leader)
+200033 | 50162 | CyberDramon (Leader)
+200034 | 41662 | RedVegiemon (Leader)
+200035 | 60612 | SaberLeomon (Leader)
+200035 | 61912 | SaberLeomon (Leader)
+200036 | 50352 | Vikaralamon (Leader)
+200037 | 21342 | DemiMeramon (Leader)
+200038 | 30672 | DemiDevimon (Leader)
+200038 | 30674 | DemiDevimon (Leader)
+200039 | 61472 | MetalEtemon (Leader)
+200039 | 61474 | MetalEtemon (Leader)
+200040 | 40292 | Chrysalimon (Leader)
+200041 | 13018 | Gotsumon (Destroyer)
+200042 | 40312 | IceDevimon (Leader)
+200042 | 40314 | IceDevimon (Leader)
+200043 | 50342 | Cerberumon (Leader)
+200044 | 61612 | HiAndromon (Leader)
+200045 | 50692 | NeoDevimon (Leader)
+200046 | 60422 | WarGreymon (Leader)
+200047 | 30112 | Monodramon (Leader)
+200048 | 50403 | MegaDramon (Leader)
+200049 | 41812 | Gizumon AT (Leader)
+200050 | 51312 | Sinduramon (Leader)
+200050 | 51314 | Sinduramon (Leader)
+200051 | 60652 | Phoenixmon (Leader)
+200052 | 62112 | Gryphonmon (Leader)
+200053 | 61711 | HerculesKabuterimon
+200054 | 30282 | Drimogemon (Leader)
+200055 | 51502 | Pumpkinmon (Leader)
+200056 | 40252 | Wendigomon (Leader)
+200056 | 40254 | Wendigomon (Leader)
+200057 | 13121 | Bearmon (Destroyer)
+200058 | 21333 | Tsunomon (Mutation)
+200059 | 51612 | Mammothmon (Leader)
+200060 | 41323 | Kiwimon (Variation)
+200061 | 50592 | Panjyamon (Leader)
+200061 | 50594 | Panjyamon (Leader)
+200062 | 60372 | Beelzemon (Leader)
+200063 | 41592 | Deputymon (Leader)
+200064 | 50642 | Garudamon (Leader)
+200065 | 40522 | Birdramon (Leader)
+200066 | 50362 | Blossomon (Leader)
+200067 | 14031 | IceDevimon of Lure
+200068 | 50432 | Cherrymon (Leader)
+200069 | 60882 | Puppetmon (Leader)
+200070 | 41752 | Gardromon (Leader)
+200071 | 41832 | Aquilamon (Leader)
+200072 | 41852 | Seadramon (Leader)
+200073 | 51742 | Knightmon (Leader)
+200074 | 50312 | Antylamon (Leader)
+200075 | 41392 | Garurumon (Leader)
+200076 | 50212 | Meteormon (Leader)
+200077 | 21363 | Koromon (Mutation)
+200078 | 51232 | Monzaemon (Leader)
+200079 | 41732 | Ikkakumon (Leader)
+200080 | 31022 | Candlemon (Leader)
+200081 | 41022 | Wizardmon (Leader)
+200082 | 30342 | Hagurumon (Leader)
+200083 | 50422 | Phantomon (Leader)
+200084 | 40323 | Flymon (Variation)
+200085 | 40586 | Leomon (Variation)
+200086 | 61452 | Anubimon (Leader)
+200086 | 61812 | Anubimon (Leader)
+200087 | 40332 | Dobermon (Leader)
+200088 | 50245 | Dark SkullGreymon
+200089 | 50243 | Hell SkullGreymon
+200090 | 51532 | Okuwamon (Leader)
+200090 | 51534 | Okuwamon (Leader)
+200091 | 50473 | Hell MetalGreymon
+200092 | 41822 | Gargomon (Leader)
+200093 | 41862 | Gladimon (Leader)
+200094 | 30332 | Goblimon (Leader)
+200095 | 41653 | Roachmon (Leader)
+200096 | 50381 | Andromon (Leader)
+200097 | 51520 | Dark SkullMeramon
+200098 | 41462 | Doggymon (Leader)
+200099 | 50452 | Lillymon (Leader)
+200100 | 50272 | Volcamon (Leader)
+200101 | 41432 | Stingmon (Leader)
+200102 | 21353 | Upamon (Mutation)
+200103 | 30182 | Gotsumon (Leader)
+200103 | 30184 | Gotsumon (Leader)
+200104 | 31426 | Tentomon (Leader)
+200105 | 51552 | Infermon (Leader)
+200106 | 40587 | Leomon (Revenger)
+200107 | 21332 | Tsunomon (Leader)
+200108 | 40462 | Greymon (Leader)
+200109 | 40712 | Boarmon (Leader)
+200110 | 61622 | Vikemon (Leader)
+200111 | 40442 | Togemon (Leader)
+200112 | 40682 | Devimon (Leader)
+200113 | 31212 | Bearmon (Leader)
+200113 | 31215 | Bearmon (Leader)
+200113 | 31217 | Bearmon (Leader)
+200114 | 21372 | Tanemon (Leader)
+200115 | 30492 | Elecmon (Leader)
+200116 | 40392 | Woodmon (Leader)
+200117 | 31422 | Wormmon (Leader)
+200118 | 21362 | Koromon (Leader)
+200119 | 30292 | Kunemon (Leader)
+200120 | 41322 | Kiwimon (Leader)
+200121 | 31382 | Gabumon (Leader)
+200121 | 31384 | Gabumon (Leader)
+200122 | 30482 | Piyomon (Leader)
+200123 | 30066 | Renamon (Leader)
+200124 | 31432 | Betamon (Leader)
+200125 | 31442 | Patamon (Leader)
+200126 | 41842 | Gatomon (Leader)
+200127 | 30172 | Keramon (Leader)
+200128 | 40282 | Waspmon (Leader)
+200129 | 41653 | Meramon (Leader)
+200129 | 41172 | Meramon (Leader)
+200130 | 40583 | Leomon (Tracker)
+200131 | 40262 | Rockmon (Leader)
+200132 | 30052 | Guilmon (Leader)
+200133 | 40192 | Icemon (Leader)
+200134 | 40322 | Flymon (Leader)
+200135 | 40232 | Digmon (Leader)
+200135 | 40236 | Digmon (Leader)
+200136 | 40582 | Leomon (Leader)
+200137 | 21352 | Upamon (Leader)
+200138 | 30662 | Impmon (Leader)
+200139 | 40584 | Leomon (Chaser)
+200140 | 30412 | Palmon (Leader)
+200141 | 51711 | MegaKabuterimon
+200142 | 40585 | Leomon (Elite)
+200143 | 61511 | MetalGarurumon
+200144 | 61461 | GranKuwagamon
+200145 | 51241 | WaruMonzaemon
+200145 | 51243 | WaruMonzaemon
+200146 | 51481 | WereGarurumon
+200146 | 51483 | WereGarurumon
+200147 | 40131 | Strikedramon
+200148 | 41720 | Dark Bakemon
+200149 | 31423 | Dark Wormmon
+200150 | 30082 | Veemon
+200151 | 50241 | SkullGreymon
+200151 | 50246 | SkullGreymon
+200151 | 51721 | SkullGreymon
+200152 | 50471 | MetalGreymon
+200153 | 51521 | SkullMeramon
+200153 | 51523 | SkullMeramon
+200154 | 50891 | SuperStarmon
+200154 | 50893 | SuperStarmon
+200155 | 50221 | SkullSatamon
+200156 | 60871 | PileVolcamon
+200157 | 30301 | Armadillomon
+200158 | 50331 | CannonBeemon
+200159 | 30081 | Dark Veemon
+200160 | 40631 | Sabirdramon
+200161 | 50161 | CyberDramon
+200162 | 41661 | RedVegiemon
+200163 | 50351 | Vikaralamon
+200164 | 21341 | DemiMeramon
+200165 | 30671 | DemiDevimon
+200165 | 30673 | DemiDevimon
+200166 | 61471 | MetalEtemon
+200166 | 61473 | MetalEtemon
+200167 | 60611 | SaberLeomon
+200167 | 61911 | SaberLeomon
+200168 | 40291 | Chrysalimon
+200169 | 40162 | Coredramon
+200170 | 40152 | Coredramon
+200171 | 40161 | Coredramon
+200172 | 40151 | Coredramon
+200173 | 40311 | IceDevimon
+200173 | 40313 | IceDevimon
+200174 | 50341 | Cerberumon
+200175 | 61611 | HiAndromon
+200176 | 50691 | NeoDevimon
+200177 | 60421 | WarGreymon
+200178 | 30111 | Monodramon
+200179 | 50402 | MegaDramon
+200180 | 41811 | Gizumon AT
+200181 | 51311 | Sinduramon
+200181 | 51313 | Sinduramon
+200182 | 60651 | Phoenixmon
+200183 | 62111 | Gryphonmon
+200184 | 30281 | Drimogemon
+200185 | 51501 | Pumpkinmon
+200186 | 40251 | Wendigomon
+200186 | 40253 | Wendigomon
+200187 | 51611 | Mammothmon
+200188 | 50591 | Panjyamon
+200188 | 50593 | Panjyamon
+200189 | 60371 | Beelzemon
+200190 | 41591 | Deputymon
+200190 | 41595 | Deputymon
+200190 | 41596 | Deputymon
+200191 | 50641 | Garudamon
+200192 | 40521 | Birdramon
+200193 | 50361 | Blossomon
+200194 | 50431 | Cherrymon
+200195 | 60881 | Puppetmon
+200196 | 41751 | Gardromon
+200197 | 41831 | Aquilamon
+200198 | 41851 | Seadramon
+200199 | 51741 | Knightmon
+200200 | 50311 | Antylamon
+200201 | 50231 | GizumonXT
+200202 | 41391 | Garurumon
+200203 | 50211 | Meteormon
+200204 | 51231 | Monzaemon
+200205 | 41731 | Ikkakumon
+200206 | 31021 | Candlemon
+200207 | 41021 | Wizardmon
+200208 | 30341 | Hagurumon
+200209 | 50421 | Phantomon
+200210 | 61451 | Anubimon
+200210 | 61811 | Anubimon
+200211 | 40331 | Dobermon
+200212 | 41652 | Roachmon
+200212 | 41657 | Roachmon
+200213 | 51531 | Okuwamon
+200213 | 51533 | Okuwamon
+200214 | 41821 | Gargomon
+200215 | 41861 | Gladimon
+200216 | 50380 | Andromon
+200217 | 30331 | Goblimon
+200218 | 40111 | Kyubimon
+200218 | 40112 | Kyubimon
+200218 | 40113 | Kyubimon
+200218 | 40114 | Kyubimon
+200219 | 41461 | Doggymon
+200220 | 50451 | Lillymon
+200221 | 41671 | Vegiemon
+200222 | 50271 | Volcamon
+200223 | 41431 | Stingmon
+200224 | 30181 | Gotsumon
+200224 | 30183 | Gotsumon
+200225 | 31425 | Tentomon
+200226 | 51551 | Infermon
+200227 | 21331 | Tsunomon
+200228 | 40461 | Greymon
+200229 | 40711 | Boarmon
+200230 | 61621 | Vikemon
+200231 | 40441 | Togemon
+200232 | 40681 | Devimon
+200233 | 41170 | Meramon
+200234 | 31211 | Bearmon
+200234 | 31213 | Bearmon
+200234 | 31216 | Bearmon
+200235 | 21371 | Tanemon
+200236 | 30491 | Elecmon
+200237 | 40391 | Woodmon
+200238 | 31421 | Wormmon
+200238 | 31424 | Wormmon
+200239 | 21361 | Koromon
+200240 | 30291 | Kunemon
+200241 | 41321 | Kiwimon
+200242 | 31381 | Gabumon
+200242 | 31383 | Gabumon
+200243 | 30481 | Piyomon
+200244 | 30065 | Renamon
+200244 | 30061 | Renamon
+200244 | 30062 | Renamon
+200244 | 30063 | Renamon
+200244 | 30064 | Renamon
+200245 | 31431 | Betamon
+200246 | 31441 | Patamon
+200247 | 41841 | Gatomon
+200248 | 51542 | Giromon
+200249 | 30171 | Keramon
+200250 | 40281 | Waspmon
+200251 | 41721 | Bakemon
+200252 | 61481 | Boltmon
+200253 | 40261 | Rockmon
+200254 | 30051 | Guilmon
+200254 | 30053 | Guilmon
+200255 | 40191 | Icemon
+200256 | 40321 | Flymon
+200257 | 40231 | Digmon
+200257 | 40235 | Digmon
+200258 | 40581 | Leomon
+200259 | 13008 | Veemon
+200260 | 21351 | Upamon
+200261 | 30661 | Impmon
+200262 | 30411 | Palmon

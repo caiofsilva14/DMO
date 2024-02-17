@@ -1,0 +1,37 @@
+
+// Recarrega o jogo
+!reload
+
+// Escolhe sua velocidade
+!ms valor
+
+// Coloca um item no seu inventario
+!item id quantidade
+
+// Remove um item do seu inventario
+!removeitem slot_number
+
+// Spawna um digimon
+!spawn digi_id
+
+// Testa alguma coisa
+!test
+
+// Mostra sua localizaçao
+!loc
+
+// Teleporta para o mapa informado
+!map id x y
+
+// Cria digimon e coloca no digi archive
+!mk nome id
+
+// Informaçoes do digimon
+!merc id
+
+// CRIA NOVO DIGIMON
+!hatch nome id
+
+// MUDA O DIGIMON PARCEIRO
+!partner id
+

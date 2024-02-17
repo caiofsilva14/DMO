@@ -1,0 +1,75 @@
+MAP ID	| MAP NUMBER | MAP NAME
+
+1 | 60000 | Dats Center Old
+2 | 30000 | D-terminal [13554, 16820]
+3 | 40000 | Dats Center [21043, 32380]
+4 | 6000 | DATS Center's Underground Passage
+10 | 16000 | GM ROOM
+11 | 50400 | D-terminal-Dungeon-B1
+12 | 50400 | D-terminal-Dungeon-B2
+13 | 50400 | D-Terminal Underground Summon Square
+14 | 16000 | Mystic GM's Room
+15 | 16000 | DATS Center's Underground Passage
+16 | 35000 | Village of the Beginning (Lost)
+17 | 30000 | Colosseum Stadium
+18 | 30000 | Master's Match Dungeon 4th Room
+19 | 60000 | Former DATS Center
+100 | 35200 | Yokohama Village
+101 | 51200 | Small Forest Park
+102 | 51200 | Small Forest trail
+103 | 51200 | Wood bench Park
+104 | 51200 | Wood bench trail
+105 | 60000 | Yokohama Village [13561, 17130]
+110 | 30000 | Yokohama East Village
+111 | 70400 | Oil refinery-1
+112 | 51200 | Oil refinery-2
+113 | 60800 | Oil refinery-3
+1100 | 60800 | Western Village [21278, 56963]
+1101 | 46400 | Wilderness Area
+1102 | 46400 | Digimon Farm
+1103 | 46400 | Wind Valley
+1104 | 45600 | Ruined Historic
+1105 | 60800 | Western Area : Outskirts
+1106 | 60800 | Western Area : East
+1107 | 80000 | Western Area : West
+1108 | 60000 | Digimon Maze Entrance
+1109 | 80000 | Dark tower Wasteland
+1110 | 16000 | Kaiser's Laboratory(Normal)
+1111 | 16000 | Kaiser's Laboratory(Hero)
+1201 | 50400 | Digimon Maze B1
+1202 | 50400 | Digimon Maze B2
+1203 | 48000 | Digimon Maze F1
+1204 | 70000 | Digimon Maze F2
+1205 | 70000 | Digimon Maze F3
+1206 | 24000 | Digimon Maze F4
+1300 | 35000 | Village of the Beginning
+1301 | 56000 | Silver Lake
+1302 | 81600 | A Silent Forest
+1303 | 81600 | Lost Historic Site
+1304 | 46000 | Ancient Ruins of Secret
+1305 | 60000 | File Island Waterfront
+1306 | 32000 | Infinite Mountain
+1307 | 51200 | Infinite Mountain Dungeon
+1308 | 26400 | Infinite Mountain instance_Dungeon
+1309 | 60000 | Hidden nest of Waterdragon
+1400 | 92000 | Server Continent Desert
+1401 | 42000 | Server Continent Canyon
+1402 | 43200 | Server Continent Pyramid
+1403 | 28000 | Datamon Maze (Normal)
+1404 | 28000 | Datamon Maze (Hard)
+1600 | 52000 | Scar of Water Crystal
+1601 | 32000 | Uprising Flame
+1602 | 64000 | Trace of Black Steel
+1603 | 44000 | Descending Thunder God
+1604 | 32000 | Uprising Flame [Easy]
+1605 | 52000 | Scar of Water Crystal [Easy]
+1606 | 64000 | Trace of Black Steel [Easy]
+1607 | 44000 | Descending Thunder God [Easy]
+1700 | 90400 | Verdandi
+2001 | 70000 | Shadow Labyrinth
+2100 | 51200 | Snowstorm Village
+2101 | 51200 | Frozen Ground
+2102 | 50400 | Snowman Village
+2103 | 51200 | Distorted Data Village
+2104 | 80000 | Infinite Ice Wall
+9101 | 50000 | 

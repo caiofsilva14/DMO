@@ -1,0 +1,215 @@
+ITEM IDS
+
+5507 - INVENTORY EXPANSION +1 (CROWN)
+6507 - INVENTORY EXPANSION +1 (CROWN BOUND)
+9007 - INVENTORY EXPANSION +1 (EVENT BOUND)
+
+5508 - WAREHOUSE EXPANSION +1 (CROWN)
+6508 - WAREHOUSE EXPANSION +1 (CROWN BOUND)
+9008 - WAREHOUSE EXPANSION +1 (EVENT BOUND)
+
+5004 - DIGIMONARCHIVE EXPANSION +1 (CROWN)
+6004 - DIGIMONARCHIVE EXPANSION +1 (CROWN BOUND)
+9006 - DIGIMONARCHIVE EXPANSION +1 (EVENT)
+9413 - DIGIMONARCHIVE EXPANSION +1 (EVENT)
+10250 - DIGIMONARCHIVE EXPANSION +1 (EVENT)
+
+5812 - MERCENARY SLOT +1 (CROWN)
+6812 - MERCENARY SLOT +1 (CROWN BOUND)
+9415 - MERCENARY SLOT +1 (EVENT)
+9966 - MERCENARY SLOT +1 (EVENT)
+
+-----------------------------------------------------------------------
+
+40001 - 101 Orange Vice (BOUND)
+40002 - Blue Vice (BOUND)
+40010 - Purple Vice (BOUND)
+41038 - JOGRESS CHIP  (Permanent)
+
+-----------------------------------------------------------------------
+
+5001 - EVOLUTER (CROWN)
+6001 - EVOLUTER (CROWN BOUND)
+9003 - EVOLUTER (EVENT BOUND)
+9004 - EVOLUTER DIGICORE (MAGIC BOUND)
+
+41070 - ModeSelector (CROWN)
+42070 - ModeSelector (CROWN BOUND)
+42562 - ModeSelector (EVENT BOUND)
+
+41002 - ACCELERATOR
+
+-----------------------------------------------------------------------
+
+9080 - Magical Ruby I (EVENT BOUND) (exp 125-300)
+9081 - Magical Ruby II (EVENT BOUND) (exp 250-600)
+9082 - Magical Ruby III (EVENT BOUND) (exp 400-960)
+9083 - Magical Ruby IV (EVENT BOUND) (exp 500-1200)
+9084 - Magical Ruby V (EVENT BOUND) (exp 750-1800)
+
+-----------------------------------------------------------------------
+
+97001 - BEAST LOW CLASS DATA (NORMAL)
+97011 - ROCK LOW CLASS DATA (NORMAL)
+97021 - DEVIL LOW CLASS DATA (NORMAL)
+97031 - BIRD LOW CLASS DATA (NORMAL)
+97041 - DRAGON LOW CLASS DATA (NORMAL)
+97051 - PLANT LOW CLASS DATA (NORMAL)
+97061 - FIRE LOW CLASS DATA (NORMAL)
+97071 - INSECT LOW CLASS DATA (NORMAL)
+97121 - AQUATIC LOW CLASS DATA (NORMAL)
+
+98001 - BEAST LOW CLASS DATA (CROWN)
+98011 - ROCK LOW CLASS DATA (CROWN)
+98021 - DEVIL LOW CLASS DATA (CROWN)
+98031 - BIRD LOW CLASS DATA (CROWN)
+98041 - DRAGON LOW CLASS DATA (CROWN)
+98051 - PLANT LOW CLASS DATA (CROWN)
+98061 - FIRE LOW CLASS DATA (CROWN)
+98071 - INSECT LOW CLASS DATA (CROWN)
+98121 - AQUATIC LOW CLASS DATA (CROWN)
+
+92103 - BEAST SIGI EGG
+
+-----------------------------------------------------------------------
+
+41005 - DRAMON BREAKER (CROWN)
+42005 - DRAMON BREAKER (BOUND)
+42505 - DRAMON BREAKER (EVENT)
+
+-----------------------------------------------------------------------
+
+41061 - GRANI (CROWN)
+41071 - BEHEMOTH (CROWN)
+42061 - GRANI (BOUND)
+42071 - BEHEMOTH (CROWN)
+42561 - GRANI (EVENT)
+
+41057 - Will of Subspecies
+
+-----------------------------------------------------------------------
+
+7001 | Elecmon DigiEgg | Phase 3 Elecmon Mercenary DigiEgg 
+7002 | Piyomon DigiEgg | Phase 3 Piyomon Mercenary DigiEgg
+7003 | Woodmon DigiEgg | Phase 3  Palmon[Type:Woodmon] Mercenary DigiEgg
+7004 | Gotsumon DigiEgg | Phase 3 Gotsumon Mercenary DigiEgg 
+7005 | Impmon DigiEgg | Phase 3 Impmon Mercenary DigiEgg 
+7006 | Gabumon DigiEgg | Phase 3 Gabumon Mercenary DigiEgg
+7007 | Deputymon DigiEgg | Phase 3 Deputymon Mercenary DigiEgg
+7008 | Starmon DigiEgg | Phase 3 Starmon Mercenary DigiEgg
+7009 | Doggymon DigiEgg | Phase 3 Doggymon Mercenary DigiEgg
+7010 | DemiMeramon DigiEgg | Phase 3 Demi Meramon Mercenary DigiEgg
+7011 | Kiwimon DigiEgg | Phase 3 Kiwimon Mercenary DigiEgg
+7012 | Dobermon DigiEgg | Phase 3 Dobermon Mercenary DigiEgg
+7013 | Agumon DigiEgg | Phase 3 Adventurous Agumon Mercenary DigiEgg
+7014 | Togemon DigiEgg | Phase 3  Palmon[Type:Togemon] Mercenary DigiEgg
+7015 | Bakemon DigiEgg | Phase 3 PicoDevimon[Type:Bakemon] DigiEgg
+7016 | V-mon[ExV-mon] DigiEgg | Phase 3 V-mon[Type:ExV-mon] Mercenary DigiEgg
+7017 | Renamon DigiEgg | 2001 | Phase 3 Renamon Mercenary DigiEgg
+7018 | Guilmon DigiEgg | 2006 | Phase 3 Guilmon Mercenary DigiEgg
+7019 | Tentomon DigiEgg | 2011 | Phase 3 Tentomon Mercenary DigiEgg
+7020 | Drimogemon DigiEgg | 2001 | 100% Completion up to Phase 3 Drimogemon Mercenary DigiEgg
+7021 | Gomamon DigiEgg | 2012 | 100% Completion up to Phase 3 Gomamon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7022 | Gardromon DigiEgg | 2002 | 100% Completion up to Phase 3 Hagurumon[Type:Gardromon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7023 | Terriermon DigiEgg | 2001 | 100% Completion up to Phase 3 Terriermon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7024 | Wormmon DigiEgg | 2011 | 100% Completion up to Phase 3 Wormmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7025 | Hawkmon DigiEgg | 2005 | 100% Completion up to Phase 3 Hawkmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7026 | Salamon DigiEgg | 2001 | 100% Completion up to Phase 3 Salamon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7027 | Betamon DigiEgg | 2012 | 100% Completion up to Phase 3 Betamon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7028 | Gladimon DigiEgg | 2006 | 100% Completion up to Phase 3 Kotemon[Type:Gladimon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7029 | DigiEgg for PawnChessmonWhite | 2002 | 100% success only up to level 3. DigiEgg for PawnChessmonWhite. @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7030 | Patamon DigiEgg | 2001 | 100% success only up to level 3. DigiEgg for Patamon mercenary. @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7031 | Candlemon DigiEgg | 2009 | 100% Completion up to Phase 3 Candlemon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7032 | Bearmon DigiEgg | 2001 | 100% Completion up to Phase 3 Bearmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7033 | Dracomon[Type:Blue]
+DigiEgg | 2006 | 100% Completion up to Phase 3 Dracomon[Type:Blue] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7034 | Dracomon[Type:Green]
+DigiEgg | 2006 | 100% Completion up to Phase 3 Dracomon[Type:Green] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7035 | DigiEgg for PawnChessmonBlack | 2002 | 100% Completion up to Phase 3 PawnChessmonBlack Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7036 | Monodramon
+DigiEgg | 2006 | 100% Completion up to Phase 3 Monodramon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7037 | Lopmon DigiEgg | 2001 | 100% Completion up to Phase 3 Lopmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7038 | FanBeemon
+DigiEgg | 2011 | 100% Completion up to Phase 3 FanBeemon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7039 | Keramon DigiEgg | 2003 | 100% Completion up to Phase 3 Keramon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7040 | Kamemon
+DigiEgg | 2012 | 100% Completion up to Phase 3 Kamemon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7041 | MechaNorimon
+DigiEgg | 2002 | 100% Completion up to Phase 3 Hagurumon[Type:MechaNorimon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7042 | Armadimon
+DigiEgg | 2001 | 100% Completion up to Phase 3 Armadimon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7043 | Goblimon DigiEgg | 2003 | 100% Completion up to Phase 3 Goblimon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7044 | Soulmon DigiEgg | 2003 | 100% Completion up to Phase 3 Soulmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7045 | Sharmamon DigiEgg | 2003 | 100% Completion up to Phase 3 Sharmamon[Type:Sharmamon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7046 | Dorugamon DigiEgg | 2001 | 100% Completion up to Phase 3 Dorumon[Type:Dorugamon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7047 | DexDorugamon
+DigiEgg | 2001 | 100% Completion up to Phase 3 Dorumon[Type:DexDorugamon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7048 | Dokunemon DigiEgg | 2011 | 100% success only up to level 3. DigiEgg for Dokunemon mercenary. @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7049 | CommanDramon
+DigiEgg | 2006 | 100% success only up to level 3. DigiEgg for CommanDramon mercenary. @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7050 | V-mon[V-dramon]
+DigiEgg | 2006 | 100% Completion up to Phase 3 V-mon[Type:V-dramon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7051 | Kudamon DigiEgg | 2001 | 100% Completion up to Phase 3 Kudamon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7052 | Ryudamon DigiEgg | 2001 | 100% Completion up to Phase 3 Ryudamon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7053 | Gizumon
+DigiEgg | 2002 | 100% Completion up to Phase 3 Gizumon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7054 | Tanemon
+DigiEgg | 2007 | 100% Completion up to Phase 3 Tanemon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7055 | Musyamon DigiEgg | 2006 | 100% Completion up to Phase 3 Kotemon[Type:Musyamon] Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7056 | BlackGatomon
+DigiEgg | 2001 | 100% Completion up to Phase 3 BlackGatomon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7057 | Mushroomon
+DigiEgg | 2007 | 100% Completion up to Phase 3 Mushroomon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7058 | Dracmon
+DigiEgg | 2003 | 100% Completion up to Phase 3 Dracmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7059 | Myotismon DigiEgg | 2003 | 100% Completion up to Phase 3 myotismon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7060 | Dorumon[RaptorDramon]  | 2001 | 100% Completion up to Phase 3 Dorumon[RaptorDramon]  Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7061 | Arkadimon
+DigiEgg | 2003 | 100% Completion up to Phase 3 Arkadimon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7063 | Agumon(Black)
+DigiEgg | 2006 | 100% Completion up to Phase 3 Arkadimon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7064 | Gabumon(Black)
+DigiEgg | 2001 | 100% Completion up to Phase 3 Gabumon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7065 | Gazimon
+DigiEgg | 2003 | 100% Completion up to Phase 3 Gazimon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7066 | Tsukaimon
+DigiEgg | 2003 | 100% Completion up to Phase 3 Tsukaimon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7067 | Swimmon
+DigiEgg | 2012 | 100% Completion up to Phase 3 Swimmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7068 | Patamon(Shakkoumon)
+DigiEgg | 2001 | 100% Completion up to Phase 3 Patamon(Shakkoumon) Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7069 | Armadimon(Shakkoumon)
+DigiEgg | 2001 | 100% Completion up to Phase 3 Armadimon(Shakkoumon) Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7070 | Lucemon
+DigiEgg | 2003 | 100% Completion up to Phase 3 Lucemon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7073 | Qinglongmon
+DigiEgg | 2006 | 100% Completion up to Phase 3 Qinglongmon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7074 | Xuanwumon
+DigiEgg | 2012 | 100% Completion up to Phase 3 Xuanwumon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7075 | Zhuqiaomon
+DigiEgg | 2005 | 100% Completion up to Phase 3 Zhuqiaomon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7076 | Baihumon
+DigiEgg | 2001 | 100% Completion up to Phase 3 Baihumon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7077 | Toyagumon
+DigiEgg | 2006 | 100% Completion up to Phase 3 Toyagumon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7078 | Psychemon
+DigiEgg | 2003 | 100% Completion up to Phase 3 Psychemon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7079 | Syakomon
+DigiEgg | 2012 | 100% Completion up to Phase 3 Syakomon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7080 | Tsukaimon(Murmukusmon)
+DigiEgg | 2003 | 100% Completion up to Phase 3 Tsukaimon(Murmukusmon) DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7091 | Tsukaimon(Barbamon)
+DigiEgg | 2003 | 100% Completion up to Phase 3 Tsukaimon(Barbamon) DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7092 | Gazimon(Millenniumon)
+DigiEgg | 2003 | 100% Completion up to Phase 3 Gazimon(Millenniumon) DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7093 | Agumon(Black)[Millenniumon]
+DigiEgg | 2006 | 100% Completion up to Phase 3 Agumon(Black)[Millenniumon] DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7094 | Kokuwamon
+DigiEgg | 2002 | 100% Completion up to Phase 3 Kokuwamon DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7095 | Gazimon [MoonMillenniumon] DigiEgg | 2003 | 100% Completion up to Phase 3 Gazimon(MoonMillenniumon) DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7096 | Agumon (Black) [MoonMillenniumon] DigiEgg | 2006 | 100% Completion up to Phase 3 Agumon(Black)[MoonMillenniumon] DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7097 | V-mon [ImperialDramon] DigiEgg | 2006 | 100% Completion up toPhase 3 V-mon [ImperialDramon] DigiEgg@<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7098 | Wormmon [ImperialDramon] DigiEgg | 2011 | 100% Completion up toPhase 3 Wormmon [ImperialDramon]DigiEgg@<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7099 | Tanemon
+DigiEgg | 2007 | 100% Completion up to Phase 3 Tanemon Mercenary DigiEgg @<tc:990>@</tc> |  | 10 | Digiegg [Mercenary] | 25856 | 0 | 800
+7100 | MysteryMercenary
